@@ -13,19 +13,32 @@
             <td>Name: </td>
             <td>${name}</td>
          </tr>
-         <tr>
-            <td>Age: </td>
-            <td>${age}</td>
-         </tr>
-         <tr>
-            <td>ID: </td>
-            <td>${id}</td>
-         </tr>
-         <tr>
-         	<td>Hobby: </td>
-         	<td>${studentHobby}</td>
-         </tr>
-      </table>  
+		<tr>
+			<td>Age:</td>
+			<td>${age}</td>
+		</tr>
+		<tr>
+			<td>ID:</td>
+			<td>${id}</td>
+		</tr>
+		<tr>
+			<td>Hobby:</td>
+			<td>${studentHobby}</td>
+		</tr>
+		<tr>
+			<td>Student Mobile:</td>
+			<td>${studentMobile}</td>
+		</tr>
+
+		<tr>
+			<td>Student DOB:</td>
+			<td>${studentDOB}</td>
+		</tr>
+		<tr>
+			<td>Student Skills:</td>
+			<td>${studentSkills}</td>
+		</tr>
+	</table>  
    </body>
    
 </html>
